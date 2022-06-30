@@ -21,7 +21,7 @@ React is a framework on top of Node that makes it easier to make front-ends for 
 
 First, ensure node is installed and navigate to the folder which you want to create the React App within. Open terminal by typing 'cmd' in the navigation bar:
 
-![](https://example.com/your-image.png)
+![image](https://github.com/adamhirata/react-notes/blob/master/navigation0.PNG?raw=true)
 
 ```sh
 npx create-react-app app-name
